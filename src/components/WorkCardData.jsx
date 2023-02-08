@@ -17,7 +17,7 @@ const ProjectCardData = [
         imgsrc:portfolio,
         title:"Portfolio website using React JS",
         text:"Build a fully functional portfolio site",
-        view:"https://portfolio-nu-eight-18.vercel.app/",
+        view:"https://vercel.com/athar78652/portfolio",
         source:"https://github.com/athar78652/Portfolio"
     },
     {
