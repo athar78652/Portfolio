@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import "./heroimg.css";
-import cv from "../Assets/Athar Imam CV.pdf"
+import cv from "../Assets/Athar CV.pdf"
 
 const Heroimg = () => {
     return (
