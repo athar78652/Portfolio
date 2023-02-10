@@ -4,6 +4,7 @@ import imdb from "../Assets/imdb.png";
 import slack from "../Assets/slack.png";
 import instagram from "../Assets/instagram.jpg";
 import cardgame from "../Assets/cardgame.jpeg";
+import todo from "../Assets/todo.jpeg";
 
 const ProjectCardData = [
     {
@@ -47,6 +48,13 @@ const ProjectCardData = [
         text:"A war card game build with HTML5, CSS and Javascript",
         view:"https://card-game-two-lime.vercel.app/",
         source:"https://github.com/athar78652/cardGame"
+    },
+    {
+        imgsrc:todo,
+        title:"Todo Application using React JS",
+        text:"Build a fully functional Todo Application site",
+        view:"https://todo-app-ebon-two.vercel.app/",
+        source:"https://github.com/athar78652/Todo_app"
     },
 ]
 
